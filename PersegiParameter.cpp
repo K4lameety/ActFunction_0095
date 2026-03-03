@@ -18,7 +18,7 @@ float luasPersegi(int a, int b) {
 }
 
 void output(){
-    cout << "Luas Perseginya = " << luasPersegi(p, l) << endl;
+    cout << "Luas Persegi = " << luasPersegi(p, l) << endl;
 }
 
 //Program Utama
